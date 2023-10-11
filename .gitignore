@@ -1,0 +1,9 @@
+build/
+devel/
+.vscode
+*.bag
+bin/
+.catkin_workspace
+model.plan
+cache*
+__pycache__
